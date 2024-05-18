@@ -1,2 +1,6 @@
 # FuzzyGraphs
-Graphics developed in Python, in the discipline of artificial intelligence
+
+Para executar os gráficos deve-se instalar o python3 e as seguintes bibliotecas:
+
+python -m pip install -U pip
+python -m pip install -U matplotlib
